@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120">
+  <style>
+    .text { font-family: Arial, sans-serif; font-weight: bold; fill: #193cb8; }
+    .x-style { font-size: 96px; letter-spacing: -12px; }
+    .main-text { font-size: 64px; }
+  </style>
+  <text x="0" y="80" class="text main-text">MA</text>
+  <text x="118" y="88" class="text x-style">X</text>
+  <text x="185" y="80" class="text main-text">-INSTAL</text>
+</svg>
