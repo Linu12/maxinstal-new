@@ -1,8 +1,10 @@
 <section id="about" class="font-roboto py-16 bg-gradient-to-b from-black to-blue-900">
     <div class="max-w-5xl mx-auto px-4 text-center">
-        <h3 class="text-3xl font-bold mb-8 text-white">Dlaczego MaxInstal?</h3>
-        <p class="text-white leading-relaxed text-lg justify-center-responsive mb-12">
+        <h3 class="text-3xl font-bold mb-8  text-white">Dlaczego MaxInstal?</h3>
+        <p class="text-blue-500 border text-base/10 border-white py-3 px-6 rounded-lg  text-shadow-lg leading-relaxed  text-left  mb-12">
             Firma Max-Instal powstała w roku 2005. Działamy w branży wentylacji, klimatyzacji, ogrzewania i chłodnictwa. Specjalizujemy się w projektowaniu, montażu i serwisie instalacji.
+            Wykonujemy instalacje w domach prywatnych, budynkach użyteczności publicznej, zakładach przemysłowych, obiektach zabytkowych. Posiadamy doświadczenie w zakresie montażu instalacji w wykonaniu zwykłym i specjalnym.
+
         </p>
 
         <!-- Sekcja FAQ -->
@@ -10,7 +12,7 @@
             <h4 class="text-2xl font-semibold mb-6 text-white text-center">Najczęściej zadawane pytania (FAQ)</h4>
 
             <!-- Pytanie 1 -->
-            <div class="bg-gradient-to-r from-blue-700 to-black p-4 mb-4 rounded-lg shadow-xl">
+            <div class="bg-gradient-to-r border border-white from-blue-700 to-black p-4 mb-4 rounded-lg shadow-xl">
                 <button
                         on:click={() => toggle(1)}
                         class="w-full text-left cursor-pointer text-white text-lg font-semibold focus:outline-none"
@@ -25,7 +27,7 @@
             </div>
 
             <!-- Pytanie 2 -->
-            <div class="bg-gradient-to-r from-blue-700 to-black p-4 mb-4 rounded-lg shadow-xl">
+            <div class="bg-gradient-to-r border border-white from-blue-700 to-black p-4 mb-4 rounded-lg shadow-xl">
                 <button
                         on:click={() => toggle(2)}
                         class="w-full text-left cursor-pointer text-white text-lg font-semibold focus:outline-none"
@@ -40,7 +42,7 @@
             </div>
 
             <!-- Pytanie 3 -->
-            <div class="bg-gradient-to-r from-blue-700 to-black p-4 rounded-lg shadow-md outline-amber-300 drop-shadow-indigo-500/50 ">
+            <div class="bg-gradient-to-r border border-white from-blue-700 to-black p-4 rounded-lg shadow-md outline-amber-300 drop-shadow-indigo-500/50 ">
                 <button
                         on:click={() => toggle(3)}
                         class="w-full text-left cursor-pointer text-white text-lg font-semibold focus:outline-none"

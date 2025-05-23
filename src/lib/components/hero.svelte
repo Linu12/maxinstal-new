@@ -45,12 +45,12 @@
 
                 <!-- Drugi przycisk: Masz pytanie? -->
                 <a href="#contact"
-                   class="inline-block px-6 py-3 border border-white text-white uppercase font-medium text-sm rounded-lg hover:backdrop-grayscale-0 hover:text-blue-600 transition">
+                   class="inline-block  px-6 py-3 border border-amber-600 text-white uppercase font-medium text-sm rounded-lg hover:backdrop-grayscale-0 hover:text-blue-600 transition">
                     Masz pytanie?
                 </a>
                 <!-- Pierwszy przycisk: Wyznacz trasę -->
                 <a href="https://www.google.com/maps/dir//Max-Instal,+Joachima+Lelewela+16,+96-100+Skierniewice/@51.9654232,20.1483943,17z/data=!4m17!1m7!3m6!1s0x47196149e80cd583:0xbe877eb62f1e755d!2sMax-Instal!8m2!3d51.9654232!4d20.1509692!16s%2Fg%2F11g_z524dc!4m8!1m0!1m5!1m1!1s0x47196149e80cd583:0xbe877eb62f1e755d!2m2!1d20.150969!2d51.9654232!3e3?entry=ttu&g_ep=EgoyMDI1MDQyMC4wIKXMDSoASAFQAw%3D%3D"
-                   class="inline-block px-6 py-3 border border-white text-white uppercase font-medium text-sm rounded-lg hover:backdrop-grayscale-0 hover:text-blue-600 transition">
+                   class="inline-block  px-6 py-3 border border-amber-600 text-white uppercase font-medium text-sm rounded-lg hover:backdrop-grayscale-0 hover:text-blue-600 transition">
                     Wyznacz trasę
                 </a>
 
@@ -68,3 +68,4 @@
 
     </div>
 </section>
+

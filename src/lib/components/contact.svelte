@@ -29,14 +29,14 @@
         <!-- Dwie sekcje poniżej -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
             <!-- Sekcja 1 -->
-            <div class="bg-indigo-950 p-6 rounded-lg shadow-2xl  ">
+            <div class="bg-gradient-to-r border border-white from-blue-700 to-black   p-6 rounded-lg shadow-2xl  ">
                 <h4 class="text-lg sm:text-xl font-normal mb-4">Nasze biuro</h4>
                 <p class="text-sm sm:text-base">ul. Joachima Lelewela 16, lokal nr 9</p>
                 <p class="text-sm sm:text-base">96 - 100 Skierniewice</p>
             </div>
 
             <!-- Sekcja 2 -->
-            <div class="bg-indigo-950 p-6 rounded-lg shadow-2xl ">
+            <div class="bg-gradient-to-r border border-white from-blue-700  to-black p-6 rounded-lg shadow-2xl ">
                 <h4 class="text-lg sm:text-xl font-normal mb-4">Godziny pracy</h4>
                 <p class="text-sm sm:text-base">Poniedziałek - Piątek: 8:00 - 16:00</p>
 
