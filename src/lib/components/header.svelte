@@ -6,6 +6,7 @@
         isMobileMenuOpen = false; // Zamyka menu po kliknięciu linku
     }
 </script>
+<!--changes-->
 
 <header class="bg-blue-800 text-white">
     <div class="container mx-auto flex items-center justify-between p-5">
