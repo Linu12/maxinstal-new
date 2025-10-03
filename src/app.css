@@ -5,3 +5,7 @@
     --font-roboto: "Roboto", sans-serif;
     --font-special: "Special Gothic Expanded One", sans-serif;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
