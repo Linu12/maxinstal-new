@@ -104,7 +104,5 @@
         </div>
     </div>
 
-    {#if isModalOpen && selectedProject}
-        <GalleryModal {selectedProject} on:close={() => (isModalOpen = false)} />
-    {/if}
+
 </section>
