@@ -10,7 +10,7 @@
     import Licences from '$lib/components/licences.svelte';
     // import AnimatedBackground from "$lib/components/animatedBackground.svelte";
 
-
+    import '../app.css';
 
 
 </script>
