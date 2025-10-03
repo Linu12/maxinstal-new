@@ -1,6 +1,5 @@
 <script>
     import { createEventDispatcher } from 'svelte';
-    import GalleryModal from './GalleryModal.svelte';
 
 
 
