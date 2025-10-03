@@ -1,5 +1,5 @@
 <!-- Sekcja Uprawnienia -->
-<section id="authorisations" class="font-roboto py-16 bg-gradient-to-l from-blue-700 to-blue-900 text-white">
+<section id="authorisations" class="font-roboto bg-[url('/assets/images/background.png')] py-16 bg-gradient-to-l from-blue-700 to-blue-900 text-white">
     <div class="max-w-7xl mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-12">Uprawnienia</h2>
         <div class="grid lg:grid-cols-3 md:grid-cols-2 gap-8">

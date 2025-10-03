@@ -1,4 +1,4 @@
-<section id="contact" class="bg-linear-to-b from-black to-blue-900 bg-center py-16 text-white text-center">
+<section id="contact" class="bg-[url('/assets/images/background.png')]  py-16 text-white text-center">
     <div class="max-w-5xl mx-auto px-4 font-roboto">
         <!-- Nagłówek kontaktowy -->
         <h3 class="text-3xl font-bold mb-4">Skontaktuj się z nami</h3>
@@ -29,14 +29,14 @@
         <!-- Dwie sekcje poniżej -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
             <!-- Sekcja 1 -->
-            <div class="bg-gradient-to-r border border-white from-blue-700 to-black   p-6 rounded-lg shadow-2xl  ">
+            <div class=" p-6 rounded-lg shadow-2xl shadow-fuchsia-200 ">
                 <h4 class="text-lg sm:text-xl font-normal mb-4">Nasze biuro</h4>
                 <p class="text-sm sm:text-base">ul. Joachima Lelewela 16, lokal nr 9</p>
                 <p class="text-sm sm:text-base">96 - 100 Skierniewice</p>
             </div>
 
             <!-- Sekcja 2 -->
-            <div class="bg-gradient-to-r border border-white from-blue-700  to-black p-6 rounded-lg shadow-2xl ">
+            <div class="p-6 rounded-lg shadow-2xl shadow-fuchsia-200 ">
                 <h4 class="text-lg sm:text-xl font-normal mb-4">Godziny pracy</h4>
                 <p class="text-sm sm:text-base">Poniedziałek - Piątek: 8:00 - 16:00</p>
 

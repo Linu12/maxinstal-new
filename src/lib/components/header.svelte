@@ -8,9 +8,11 @@
 </script>
 <!--changes-->
 
-<header class="bg-blue-800 text-white">
+<header class="bg-fuchsia-950 text-white">
     <div class="container mx-auto flex items-center justify-between p-5">
         <!-- Logo -->
+        <img src="/assets/images/logo_white.png" alt="MaxInstal Logo" class="h-8 block sm:ml-14 tex">
+
         <div class="text-2xl font-semibold">
             <!-- Menu na laptopa -->
             <nav class="hidden lg:flex space-x-6 uppercase font-roboto font-bold text-xs ml-18 tracking-widest">
@@ -20,7 +22,9 @@
                 <a href="#producers" class="hover:text-gray-300">Nasi Producenci</a>
                 <a href="#authorisations" class="hover:text-gray-300">Uprawnienia</a>
                 <a href="#contact" class="hover:text-gray-300">Kontakt</a>
+
             </nav>
+
         </div>
 
         <!-- Hamburger menu na telefonie -->

@@ -9,6 +9,7 @@
     import Footer from '$lib/components/footer.svelte';
     import GalleryModal from '$lib/components/galleryModal.svelte';
     import Licences from '$lib/components/licences.svelte';
+    // import AnimatedBackground from "$lib/components/animatedBackground.svelte";
 
 
 
@@ -31,11 +32,12 @@
 
 <main>
     <Header />
+<!--    <AnimatedBackground />-->
     <Hero />
     <Licences />
     <About />
     <!-- Przekazanie funkcji do Projects -->
-    <Projects on:openGallery={(e) => openGallery(e.detail.images, e.detail.description)} />
+    <Projects />
    <Producers />
     <Contact />
     <Footer />
