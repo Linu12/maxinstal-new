@@ -65,11 +65,7 @@ const dispatch = createEventDispatcher();
     let isModalOpen = false;
     let selectedProject = null;
 
-    function handleImageClick(project) {
-        // Przekazywanie wybranego projektu do modalu
-        selectedProject = project;
-        isModalOpen = true;
-    }
+
 </script>
 
 <section id="projects"  class="py-16 bg-[url('/assets/images/background.png')] font-roboto bg-gradient-to-b from-black to-blue-700 relative">
