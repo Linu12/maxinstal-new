@@ -3,7 +3,7 @@
     import Hero from '$lib/components/hero.svelte';
     // import Services from '$lib/components/services.svelte';
     import About from '$lib/components/about.svelte';
-    import Projects from '$lib/components/projects.svelte';
+    // import Projects from '$lib/components/projects.svelte';
     import Producers from '$lib/components/producers.svelte';
     import Contact from '$lib/components/contact.svelte';
     import Footer from '$lib/components/footer.svelte';
@@ -22,7 +22,7 @@
     <Licences />
     <About />
     <!-- Przekazanie funkcji do Projects -->
-    <Projects />
+<!--    <Projects />-->
    <Producers />
     <Contact />
     <Footer />
