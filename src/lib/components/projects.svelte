@@ -1,7 +1,10 @@
 <script>
     import { createEventDispatcher } from 'svelte';
+    import GalleryModal from './GalleryModal.svelte';
 
-    const dispatch = createEventDispatcher();
+
+
+const dispatch = createEventDispatcher();
 
     const galleryItems = [
         {
