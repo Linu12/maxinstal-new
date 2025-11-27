@@ -31,6 +31,6 @@
 		"@sveltejs/adapter-static": "^3.0.9"
 	},
 	"engines": {
-		"node": ">=16"
+		"node": ">=18"
 	}
 }
