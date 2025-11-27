@@ -9,7 +9,7 @@
         <div class="text-white text-center lg:text-left lg:w-1/2 w-full lg:self-start">
 
 
-            <h1 class="font-extrabold mb-5 font-roboto sm:text-8xl text-6xl sm:tracking-widest">MaxInstal111</h1>
+            <h1 class="font-extrabold mb-5 font-roboto sm:text-8xl text-6xl sm:tracking-widest">MaxInstal</h1>
             <div class="text-xl sm:text-4xl sm:mt-10 mb-3 uppercase font-roboto font-extrabold">wentylacja i klimatyzacja</div>
             <!-- Przycisk -->
 
