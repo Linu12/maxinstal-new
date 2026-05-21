@@ -70,7 +70,7 @@ const dispatch = createEventDispatcher();
 
 <section id="projects"  class="py-16 bg-[url('/assets/images/background.png')] font-roboto bg-gradient-to-b from-black to-blue-700 relative">
     <div class="max-w-7xl mx-auto px-4">
-        <h3 class="text-3xl font-bold text-center mb-12 text-white">Nasze realizacje</h3>
+        <h3 class="text-3xl font-bold text-center mb-12 text-white">Nasze realizacje:</h3>
 
         <div class="relative">
             <button
